@@ -8,4 +8,3 @@ The goal is to perform Exploratory Data Analysis (EDA) on a student dataset, bui
 - Preprocess the data: handle missing values, duplicates, encoding and scaling.  
 - Build a Multilayer Perceptron (MLP) using PyTorch to classify whether a student will pass or fail.  
 - Evaluate and visualize model performance: loss curves, accuracy, confusion matrix.  
-- Draw actionable insights and suggest future enhancements.
